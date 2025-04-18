@@ -25,10 +25,14 @@
 }
 
 .my_name {
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 500;
     line-height: 0.9;
     margin-top: 100px;
+}
+
+.my_name2 {
+    padding: 0px 25px 0px 25px;
 }
 
 .me_opening2 {
